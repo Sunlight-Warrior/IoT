@@ -172,3 +172,4 @@ Agora você tem uma conexão via **MQTT** entre a **ESP32** e o **Blynk**, com c
 Se você quiser adicionar mais sensores ou controles, basta configurar mais widgets no Blynk e modificar o código da ESP32 para lidar com os novos tópicos MQTT.
 
 Se tiver mais alguma dúvida ou quiser continuar com outro passo, é só me falar!
+https://github.com/Blynk-Technologies/Blynk-MQTT-Samples
